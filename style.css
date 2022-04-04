@@ -2,7 +2,9 @@
     margin: 0;
 }
 html {
+  background-size: cover;
   background-image: url(https://wallpapers.com/images/high/shrek-windows-xp-meme-67qdn6wzoe99uihp.jpg);
+  background-repeat: no-repeat;
 }
 body{
     color: purple;
