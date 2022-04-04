@@ -1,14 +1,16 @@
 * {
-    background: white;
     margin: 0;
+}
+main {
+  background-image: url("https://wallpapers.com/wallpapers/shrek-windows-xp-meme-67qdn6wzoe99uihp.html");
+}
+body{
+    color: purple;
 }
 
 .questions {
-    background: ;
+    background: teal;
+    color: orange;
     margin: auto;
     width: 50%;
-}
-
-fieldset {
-    
 }
